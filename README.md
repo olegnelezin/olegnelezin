@@ -8,3 +8,5 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=shimorinka&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![](https://komarev.com/ghpvc/olegnelezin)
