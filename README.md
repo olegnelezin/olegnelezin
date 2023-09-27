@@ -1,6 +1,6 @@
 ### Hi there, I'm Oleg! 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+student+from+Vrn)](https://git.io/typing-svg)
-<img src="https://komarev.com/ghpvc/?username=olegnelezin&style=flat-square&color=blue" alt=""/>
+
 #### Leetcode stat:
 
 [![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=shimorinka)](https://github.com/KnlnKS/leetcode-stats)
@@ -12,3 +12,4 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
+<img src="https://komarev.com/ghpvc/?username=olegnelezin&style=flat-square&color=blue" alt=""/>
