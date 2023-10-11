@@ -28,5 +28,3 @@ I started getting interested in programming in the 10th grade. I was buying diff
 
 [![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=shimorinka)](https://github.com/KnlnKS/leetcode-stats)
 
-
-<img src="https://komarev.com/ghpvc/?username=olegnelezin&style=flat-square&color=blue" alt=""/>
