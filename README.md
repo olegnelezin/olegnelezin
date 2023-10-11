@@ -11,7 +11,7 @@ I started getting interested in programming in the 10th grade. I was buying diff
 
 * 🌍  I'm based in Voronezh
 * ✉️  You can contact me at [astravsu@gmail.com](mailto:astravsu@gmail.com)
-* 🧠  I'm learning Spring Framework
+* 🧠  I'm learning Spring 
 
 ### Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
