@@ -26,5 +26,5 @@ I started getting interested in programming in the 10th grade. I was buying diff
 
 ### My Leetcode
 
-[![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=shimorinka)](https://github.com/KnlnKS/leetcode-stats)
+[![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=olegnelezin)](https://github.com/KnlnKS/leetcode-stats)
 
