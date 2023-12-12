@@ -6,9 +6,6 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 Computer Science student from Voronezh
 --------------------------------------
-
-I started getting interested in programming in the 10th grade. I was buying different courses (udemy, coursera, javarush) and trying to learn something new. In the 11th grade, I entered Samsung IT School (Java training) and successfully completed it, taking second place in the competition in the “Best Gaming Application” category. Currently, I am doing pet projects and learning new technologies :)
-
 * 🌍  I'm based in Voronezh
 * ✉️  You can contact me at [astravsu@gmail.com](mailto:astravsu@gmail.com)
 * 🧠  I'm learning Spring 
