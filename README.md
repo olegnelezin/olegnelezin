@@ -21,7 +21,3 @@ Computer Science student from Voronezh
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-### My Leetcode
-
-[![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=olegnelezin)](https://github.com/KnlnKS/leetcode-stats)
-
