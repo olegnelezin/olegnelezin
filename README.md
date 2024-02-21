@@ -2,4 +2,4 @@
 * ✉️  You can contact me at [astravsu@gmail.com](mailto:astravsu@gmail.com)
 * 🧠  I'm learning Spring
   
-<span align="center">![vsu_gerb170x200](https://github.com/olegnelezin/olegnelezin/assets/77767886/e6a0db1f-8243-43f7-a153-87feb4dce767)</span>
+<h3 align="center"><img src="https://www.vsu.ru/ru/university/general/images/vsu_gerb170x200.jpg" height="150"/></h3>
